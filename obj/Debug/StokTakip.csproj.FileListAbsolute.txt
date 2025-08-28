@@ -1,0 +1,12 @@
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.AssemblyReference.cache
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.GirisForm.resources
+C:\Users\Asya\Desktop\staj projeleri\StokTakip\StokTakip\obj\Debug\StokTakip.exe.config
